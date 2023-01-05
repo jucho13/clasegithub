@@ -10,3 +10,9 @@ strong
 {
     color: red;
 }
+header
+{
+    height: 450px;
+    width: 100%;
+    background-color: orange;
+}
